@@ -2,7 +2,7 @@ import requests
 import json
 
 # Замените значение access_token на ваш токен
-access_token = 'vk1.a.fMod3-bJFgnhiuS9TPLYKdux7CaxGDHLDslumO1UnP4_VMyrAd0Ww2_CinUgQbN1O0Q7CoMglq7cPLLNp0vHmcHNwtNoyJKyNXPgH5DLopfOUltP2W-7maxxARklyCGr0VgtvBBawLfF7Bt5gTIuy00wcK4cdp-gmcvAYipnl38b0ARXxJy9UXWYXPQ0XeBk2a1IjvMHgkUpA75KCY5DqQ'
+access_token = 'VK_ACCESS_TOKEN'
 user_id = '169188359'  # Укажите здесь свой ID ВКонтакте
 
 def get_user_info(user_id, access_token):
