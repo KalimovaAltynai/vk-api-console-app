@@ -1,7 +1,7 @@
 import requests
 import json
 
-# Замените значение access_token на ваш токенн
+# Замените значение access_token на ваш токеннy
 access_token = 'VK_ACCESS_TOKEN'
 user_id = '169188359'  # Укажите здесь свой ID ВКонтакте
 
